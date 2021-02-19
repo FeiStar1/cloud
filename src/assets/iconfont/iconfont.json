@@ -1,0 +1,30 @@
+{
+  "id": "2372622",
+  "name": "cloud",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "19150003",
+      "name": "platform-color",
+      "font_class": "platform-color",
+      "unicode": "e8f4",
+      "unicode_decimal": 59636
+    },
+    {
+      "icon_id": "19606070",
+      "name": "warning-color",
+      "font_class": "warning-color",
+      "unicode": "e8f7",
+      "unicode_decimal": 59639
+    },
+    {
+      "icon_id": "19606094",
+      "name": "more-color",
+      "font_class": "more-color",
+      "unicode": "e8f9",
+      "unicode_decimal": 59641
+    }
+  ]
+}
