@@ -1,7 +1,9 @@
 import React, { useEffect, useState }from 'react';
 import { SliderContainer } from './style';
-import "swiper/css/swiper.css";
-import Swiper from "swiper";
+import 'swiper/swiper-bundle.css'
+import Swiper, { Pagination, Autoplay } from 'swiper'
+
+Swiper.use([Pagination,Autoplay])
 
 function Slider (props) {
     console.log(props.bannerList)
